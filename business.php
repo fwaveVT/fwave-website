@@ -38,7 +38,7 @@
 				<header id="header">
 <!-- Logo -->
 					<h1>
-						<a href="#" class="mobileUI-site-name"><span class="text">fwave </span>studio&nbsp&nbsp&nbsp&nbsp</a></a> <img src="images/Waveform alphaBlue.png" height="45" alt="" />
+					<a href="#" class="mobileUI-site-name"><span class="text">fwave </span>&nbsp&nbsp&nbsp&nbsp</a></a> <img src="images/Waveform alphaBlue.png" height="45" alt="" />
 					</h1>
 
 <!-- Nav -->
