@@ -72,7 +72,7 @@
 						<div class="12u">
 							<article>
 								
-								<p><a href="#" class="image image-left"><img src="images/portfolio/thumbnails/shutterstock_69390763.jpg" alt=""></a> <h2>email</h2><a href="mailto:eric@fwave.com">info at fwave dot com</a></p> <h2>phone</h2> +1 (802) 649-3077
+								<p><a href="#" class="image image-left"><img src="images/portfolio/thumbnails/shutterstock_69390763.jpg" alt=""></a> <h2>email</h2><a href="mailto:eric@fwave.com">info at fwave dot com</a></p>
 							</article>							
 						</div>
 					</div>
