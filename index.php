@@ -48,8 +48,8 @@
 					<nav id="nav" class="mobileUI-site-nav"> 
 					<ul>
 						<li class="current_page_item"><a href="index.php">Home</a></li>
-						<li><a href="mobile.php">Mobile Apps</a></li>
-						<li><a href="business.php">Business</a></li>
+						<li><a href="mobile.php">Digital Health</a></li>
+						<li><a href="business.php">Wearable Devices</a></li>
 						<li><a href="marketing.php">Marketing</a></li>
 						<li><a href="contact.php">Contact</a></li>
 					</ul>
@@ -83,7 +83,7 @@
 										media engineering
 									</h2>
 									<p>
-										fwave is a media development studio that engineers mobile experiences for clients ranging from startups to global companies. 
+										fwave is a medical and wellness development studio that engineers devices and apps for clients ranging from startups to global companies. 
 									</p>
 									<a href="#" class="button">how we do it</a> 
 								</div>
@@ -96,7 +96,7 @@
 										insight
 									</h2>
 									<p>
-										We provide insight and vision, bringing digital ideas to life through our mobile and social platform expertise.
+										We provide insight and vision, bringing digital ideas to life through our platform expertise.
 									</p>
 									<a href="#" class="button">who we are</a> 
 								</div>
@@ -108,7 +108,7 @@
 										experience
 									</h2>
 									<p>
-										fwave has a network of experienced internet technology developers, business advisors, production veterans and expert engineering resources.
+										fwave has a network of experienced medtech developers, business advisors, production veterans and expert engineering resources.
 									</p>
 									<a href="#" class="button">our network</a> 
 								</div>
@@ -120,7 +120,7 @@
 										growth
 									</h2>
 									<p>
-										Looking for your next growth strategy? &nbsp Wondering if it's time to develop a smartphone app? &nbsp Contact us today for a no-cost initial consultation.
+										Looking for your next growth strategy? &nbsp Wondering if it's time to develop a wearable device or digital health app? &nbsp Contact us today for a no-cost initial consultation.
 									</p>
 									<a href="#" class="button">contact us</a> 
 								</div>

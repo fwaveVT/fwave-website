@@ -46,7 +46,7 @@
 					<ul>
 						<li> <a href="index.php">Home</a></li>
 						<li class="current_page_item"><a href="mobile.php">Digital Health</a></li>
-						<li><a href="business.php">Business</a></li>
+						<li><a href="business.php">Wearable Devices</a></li>
 						<li><a href="marketing.php">Marketing</a></li>
 						<li><a href="contact.php">Contact</a></li>
 					</ul>
