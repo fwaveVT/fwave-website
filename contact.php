@@ -44,8 +44,8 @@
 											<ul>
 												<li> <a href="index.php">Home</a></li>
 											
-												<li><a href="mobile.php">Mobile Apps</a></li>
-												<li><a href="business.php">Business</a></li>
+												<li><a href="mobile.php">Digital Health</a></li>
+												<li><a href="business.php">Wearable Devices</a></li>
 												<li><a href="marketing.php">Marketing</a></li>
 												<li class="current_page_item"><a href="contact.php">Contact</a></li>
 											</ul>
