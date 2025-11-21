@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>fwave app development</title>
+	<title>fwave digital health development</title>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -45,7 +45,7 @@
 					<nav id="nav" class="mobileUI-site-nav"> 
 					<ul>
 						<li> <a href="index.php">Home</a></li>
-						<li class="current_page_item"><a href="mobile.php">Mobile Apps</a></li>
+						<li class="current_page_item"><a href="mobile.php">Digital Health</a></li>
 						<li><a href="business.php">Business</a></li>
 						<li><a href="marketing.php">Marketing</a></li>
 						<li><a href="contact.php">Contact</a></li>
@@ -64,7 +64,7 @@
 			<div class="12u">
 				<div id="bar">
 					<h2>
-						app development
+						digital health development
 					</h2>
 					
 				</div>
